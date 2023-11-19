@@ -1,9 +1,6 @@
 <p align="center"> 
  Discord Custom Status
- </p> 
- <p align="center"> 
- A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses.
- </p> 
+ </p>  
 
   
  ## Disclaimer 
@@ -24,8 +21,6 @@
 <br/>
 
 ### Features:
- - Listening Status (Spotify)
- - Playing Status
  - Streaming Status 
  <br /> 
 
@@ -34,8 +29,3 @@
 
 <br/>
   
- - **How to import spotify images ?** 
- - A: [How to:](https://github.com/FriendlyPumpkin/Discord-Custom-Status/wiki/How-to-import-Spotify-images)
-  
- <br /> 
- 
